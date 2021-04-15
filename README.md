@@ -1,6 +1,6 @@
 # SantanderTestiOS
 
-## Favor executar o projeto com o Xcode 11, de preferência utilizando o iPhone 8 como target.
+Favor executar o projeto com o Xcode 11, de preferência utilizando o iPhone 8 como target.
 
 O projeto não contém dependências.
 
